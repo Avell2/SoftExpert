@@ -1,5 +1,10 @@
 # SoftExpert
-
+Desenvolvido em php 7.4
+design patterns: Strategy
+Bootstrap
+Jquery
+HTML
+CSS
 ATENÇÃO
 
 1 - O script do banco de dados se encontra na raiz do projeto.
