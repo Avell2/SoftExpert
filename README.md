@@ -1,14 +1,14 @@
 # SoftExpert
-Desenvolvido em php 7.4
-design patterns: Strategy
-Bootstrap
-Jquery
-HTML
-CSS
-ATENÇÃO
+Desenvolvido em php 7.4;
+design patterns: Strategy;
+Bootstrap;
+Jquery;
+HTML;
+CSS;
+ATENÇÃO;
 
-1 - O script do banco de dados se encontra na raiz do projeto.
-2 - criar o banco de dados no MSSQLSERVER
+1 - O script do banco de dados se encontra na raiz do projeto;
+2 - criar o banco de dados no MSSQLSERVER;
 3 - criar um usuário novo para acessar o banco(utilizar script):
 
 USE [master];
